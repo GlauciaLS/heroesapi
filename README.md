@@ -26,4 +26,16 @@ Para listar as tabelas criadas:
 aws dynamodb list-tables --endpoint-url http://localhost:8000
 ```
 
+Para executar o projeto no terminal, digite o seguinte comando:
+
+```shell script
+mvn spring-boot:run 
+```
+
+Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+
+```
+http://localhost:8080/heroes
+```
+
 Documentação gerada pelo Swagger: http://localhost:8080/swagger-ui-heroes-reactive-api.html

@@ -38,4 +38,8 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/heroes
 ```
 
-Documentação gerada pelo Swagger: http://localhost:8080/swagger-ui-heroes-reactive-api.html
+Documentação gerada pelo Swagger: 
+
+```
+http://localhost:8080/swagger-ui-heroes-reactive-api.html
+```

@@ -1,5 +1,7 @@
 
-# API reativa de gerenciador de heróis utilizando Spring Webflux
+# HeroesAPI
+
+Projeto de API reativa de gerenciador de heróis utilizando Spring Webflux.
 
 ## Stack utilizada
 
@@ -7,7 +9,7 @@
   * Spring Webflux
   * Spring Data
   * DynamoDB
-  * jUnit
+  * JUnit
   * Sl4j
   * Reactor  
 
